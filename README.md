@@ -2,7 +2,6 @@
 
 Submitted by: **Onwuosiuno Ikhioda**
 
-**Flixster** is a movie browsing app that... [TODO] 
 
 Time spent: **8** hours spent in total
 
