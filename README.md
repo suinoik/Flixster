@@ -16,6 +16,8 @@ The following **required** functionality is completed:
 The following **optional** features are implemented:
 
 - [x] Unique UI changes, such as background, font/color changes, etc.
+- [x] Your app should work for any screen size and orientation using AutoLayout constraints
+  - [x] Mark here if you will demostrate auto layout implemention as horizontal rotation or different phone size or both
 
 
 
